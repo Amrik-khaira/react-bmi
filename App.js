@@ -8,6 +8,10 @@ import {
   TouchableOpacity,
 } from "react-native";
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8a2ec0e (bmi calculator)
 class Bmicalc extends Component{
   state = {
     height: '',
